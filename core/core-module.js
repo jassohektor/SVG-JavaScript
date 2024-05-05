@@ -1,4 +1,4 @@
-//import { svgDocument } from './svg';
+//import { svgDocument } from './coil-strip-tracking-zones';
 //let svg = svgDocument;
 /*
     if you run the web app locally above code won't work, you'll run into CORS errors due to JavaScript module security requirements. 

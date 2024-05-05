@@ -6,8 +6,7 @@
     npm install -g live-server  // Install globally via npm.
     live-server                 // Run in the html's directory.
     npx live-server             //Next command is even shorter and without altering your packages, basically is a package executer that is used to directly execute Javascript packages without installing them
-    npm start                   //Run in root directory to access your files using http://127.0.0.1:8080/coil-StripTrackingZones.html
-*/
+    npm start                   //Run in root directory to access your files using http://127.0.0.1:8080/
 
 /*
 //https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
